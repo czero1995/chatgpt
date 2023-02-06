@@ -1,0 +1,9 @@
+/node_modules/
+.project
+package-lock.json
+.DS_Store
+/src/config/config.ts
+/dist
+/logs
+/log
+/coverage
