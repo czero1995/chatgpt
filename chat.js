@@ -1,3 +1,4 @@
+import 'isomorphic-fetch';
 import express from "express";
 import { ChatGPTAPI } from 'chatgpt'
 const Router = express.Router();

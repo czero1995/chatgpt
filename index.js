@@ -1,6 +1,7 @@
 import express from "express";
 const router = express.Router();
 // import { ChatGPTAPI } from 'chatgpt'
+import 'isomorphic-fetch';  
 import chat from './chat.js'
 
 const app = express();
